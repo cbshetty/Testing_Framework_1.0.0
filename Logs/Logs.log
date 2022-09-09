@@ -1,0 +1,145 @@
+16:49:39.429 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-044937/TestExtent.html
+16:49:45.711 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/bQ7wNmC71o23
+16:50:14.975 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-045013/TestExtent.html
+16:50:19.327 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/RWog5c4OPb56
+16:50:40.409 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-045039/TestExtent.html
+16:50:44.146 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/NfzG0ozCIBdI
+16:52:39.525 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-045238/TestExtent.html
+16:52:39.557 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-045238/BDD_Reports
+16:52:43.240 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/DsOz2YSV0Uj2
+16:55:08.074 [main] INFO  com.api.logging.LogFactory - =========Starting Test Title of your scenario 1==================
+16:55:08.084 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;font-family:'Source Sans Pro', sans-serif;"><details><summary><b> TEST CASE (<span style="color:#039be5">Click to View</span>)</summary><ol><li><span><b>When </b> Application calls the "Sample" API</span></li><li><span><b>Then </b> API response status is 200</span></li></ol></details></div>
+16:55:08.155 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 1: When Application calls the "Sample" API</b></p></div>
+16:55:11.623 [main] INFO  com.api.logging.LogFactory - <a><details><summary>REQUEST URL(click to view)</summary><font color=black>https://reqres.in/api/users/2</font></details></a>
+16:55:11.629 [main] INFO  com.api.logging.LogFactory - <a><details><summary>RESPONSE STATUS(click to view)</summary><font color=black>HTTP/1.1 200 OK</font></details></a>
+16:55:11.629 [main] INFO  com.api.logging.LogFactory - <a><details><summary>RESPONSE BODY(click to view)</summary><font color=black>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}</font></details></a>
+16:55:11.631 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 2: Then API response status is 200</b></p></div>
+16:55:11.631 [main] INFO  com.api.logging.LogFactory - SUCCESS :: API request completed with the expected status
+16:55:11.631 [main] INFO  com.api.logging.LogFactory - Overall Status: PASSED
+16:55:11.631 [main] INFO  com.api.logging.LogFactory - =========Ending Test==================
+16:55:12.071 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-045507/TestExtent.html
+16:55:12.260 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-045507/BDD_Reports
+16:55:26.419 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/hGs4IXJzOnm5
+18:07:11.832 [main] INFO  com.api.logging.LogFactory - =========Starting Test Title of your scenario 1==================
+18:07:11.847 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;font-family:'Source Sans Pro', sans-serif;"><details><summary><b> TEST CASE (<span style="color:#039be5">Click to View</span>)</summary><ol><li><span><b>When </b> Application calls the "Sample" API</span></li><li><span><b>Then </b> API response status is 200</span></li></ol></details></div>
+18:07:11.863 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 1: When Application calls the "Sample" API</b></p></div>
+18:07:14.475 [main] INFO  com.api.logging.LogFactory - <a><details><summary>REQUEST URL(click to view)</summary><font color=black>https://reqres.in/api/users/2</font></details></a>
+18:07:14.484 [main] INFO  com.api.logging.LogFactory - <a><details><summary>RESPONSE STATUS(click to view)</summary><font color=black>HTTP/1.1 200 OK</font></details></a>
+18:07:14.484 [main] INFO  com.api.logging.LogFactory - <a><details><summary>RESPONSE BODY(click to view)</summary><font color=black>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}</font></details></a>
+18:07:14.486 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 2: Then API response status is 200</b></p></div>
+18:07:14.486 [main] INFO  com.api.logging.LogFactory - SUCCESS :: API request completed with the expected status
+18:07:14.486 [main] INFO  com.api.logging.LogFactory - Overall Status: PASSED
+18:07:14.486 [main] INFO  com.api.logging.LogFactory - =========Ending Test==================
+18:07:14.858 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-060710/TestExtent.html
+18:07:14.942 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-060710/BDD_Reports
+18:07:17.348 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/vg3eqGjXrjPN
+18:29:29.371 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-062922/TestExtent.html
+18:29:29.828 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-062922/BDD_Reports
+18:29:34.123 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/GfMyvgCDla25
+18:33:44.252 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-063334/TestExtent.html
+18:33:44.398 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-063334/BDD_Reports
+18:33:47.337 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/153gRJdeHak4
+18:38:12.472 [main] INFO  com.api.logging.LogFactory - =========Starting Test Title of your scenario 1==================
+18:38:12.485 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;font-family:'Source Sans Pro', sans-serif;"><details><summary><b> TEST CASE (<span style="color:#039be5">Click to View</span>)</summary><ol><li><span><b>When </b> Application calls the "Sample" API</span></li><li><span><b>Then </b> API response status is 200</span></li></ol></details></div>
+18:38:12.485 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 1: When Application calls the "Sample" API</b></p></div>
+18:38:14.468 [main] INFO  com.api.logging.LogFactory - <a><details><summary>REQUEST URL(click to view)</summary><font color=black>https://reqres.in/api/users/2</font></details></a>
+18:38:14.468 [main] INFO  com.api.logging.LogFactory - <a><details><summary>RESPONSE STATUS(click to view)</summary><font color=black>HTTP/1.1 200 OK</font></details></a>
+18:38:14.468 [main] INFO  com.api.logging.LogFactory - <a><details><summary>RESPONSE BODY(click to view)</summary><font color=black>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}</font></details></a>
+18:38:14.472 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 2: Then API response status is 200</b></p></div>
+18:38:14.472 [main] INFO  com.api.logging.LogFactory - SUCCESS :: API request completed with the expected status
+18:38:14.472 [main] INFO  com.api.logging.LogFactory - Overall Status: PASSED
+18:38:14.472 [main] INFO  com.api.logging.LogFactory - =========Ending Test==================
+18:38:14.867 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-063811/TestExtent.html
+18:38:14.949 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-063811/BDD_Reports
+18:38:17.087 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/SZu2Vo9gtqbF
+19:12:10.172 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-071209/TestExtent.html
+19:12:10.385 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-071209/BDD_Reports
+19:12:14.823 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/IcbKa4Eq2VAq
+19:13:27.296 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-071326/TestExtent.html
+19:13:27.348 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-071326/BDD_Reports
+19:13:30.595 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/UcmICuqUcTtQ
+19:15:38.452 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-071537/TestExtent.html
+19:15:38.516 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-071537/BDD_Reports
+19:15:41.979 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/lKjHPs03BGha
+19:17:55.870 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-071754/TestExtent.html
+19:17:56.337 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-071754/BDD_Reports
+19:18:00.335 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/GYk1rNjooSZ0
+19:19:13.227 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-071911/TestExtent.html
+19:19:13.259 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-071911/BDD_Reports
+19:19:16.511 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/IzVEDI1zv7am
+19:20:19.596 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-072018/TestExtent.html
+19:20:19.628 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-072018/BDD_Reports
+19:20:22.924 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/aZo6ZB8KD6AS
+19:21:23.902 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-072122/TestExtent.html
+19:21:23.982 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-072122/BDD_Reports
+19:21:27.921 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/oNHQu1svxjFz
+19:28:19.397 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-072818/TestExtent.html
+19:28:20.265 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-072818/BDD_Reports
+19:28:24.417 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/TUKvVZLKwOqo
+19:29:36.437 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-072935/TestExtent.html
+19:29:36.469 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-072935/BDD_Reports
+19:29:39.639 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/3k6oJjmhZsHh
+19:32:33.535 [main] INFO  com.api.logging.LogFactory - =========Starting Test Title of your scenario 1==================
+19:32:33.535 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;font-family:'Source Sans Pro', sans-serif;"><details><summary><b> TEST CASE (<span style="color:#039be5">Click to View</span>)</summary><ol><li><span><b>Given </b> sample step</span></li><li><span><b>When </b> Application calls the "Sample" API</span></li><li><span><b>Then </b> API response status is 200</span></li></ol></details></div>
+19:32:33.535 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 1: Given sample step</b></p></div>
+19:32:33.551 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 2: When Application calls the "Sample" API</b></p></div>
+19:32:35.664 [main] INFO  com.api.logging.LogFactory - <a><details><summary>REQUEST URL(click to view)</summary><font color=black>https://reqres.in/api/users/2</font></details></a>
+19:32:35.674 [main] INFO  com.api.logging.LogFactory - <a><details><summary>RESPONSE STATUS(click to view)</summary><font color=black>HTTP/1.1 200 OK</font></details></a>
+19:32:35.674 [main] INFO  com.api.logging.LogFactory - <a><details><summary>RESPONSE BODY(click to view)</summary><font color=black>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}</font></details></a>
+19:32:35.675 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 3: Then API response status is 200</b></p></div>
+19:32:35.675 [main] INFO  com.api.logging.LogFactory - SUCCESS :: API request completed with the expected status
+19:32:35.675 [main] INFO  com.api.logging.LogFactory - Overall Status: PASSED
+19:32:35.675 [main] INFO  com.api.logging.LogFactory - =========Ending Test==================
+19:32:36.082 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-073232/TestExtent.html
+19:32:36.132 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09022022-073232/BDD_Reports
+19:32:39.365 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/gPs0WmttFimE
+13:16:25.491 [main] INFO  com.api.logging.LogFactory - =========Starting Test Title of your scenario 1==================
+13:16:25.522 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;font-family:'Source Sans Pro', sans-serif;"><details><summary><b> TEST CASE (<span style="color:#039be5">Click to View</span>)</summary><ol><li><span><b>Given </b> sample step</span></li><li><span><b>When </b> Application calls the "Sample" API</span></li><li><span><b>Then </b> API response status is 200</span></li></ol></details></div>
+13:16:25.538 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 1: Given sample step</b></p></div>
+13:16:25.553 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 2: When Application calls the "Sample" API</b></p></div>
+13:16:28.991 [main] INFO  com.api.logging.LogFactory - <a><details><summary>REQUEST URL(click to view)</summary><font color=black>https://reqres.in/api/users/2</font></details></a>
+13:16:28.991 [main] INFO  com.api.logging.LogFactory - <a><details><summary>RESPONSE STATUS(click to view)</summary><font color=black>HTTP/1.1 200 OK</font></details></a>
+13:16:28.991 [main] INFO  com.api.logging.LogFactory - <a><details><summary>RESPONSE BODY(click to view)</summary><font color=black>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}</font></details></a>
+13:16:28.991 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 3: Then API response status is 200</b></p></div>
+13:16:28.991 [main] INFO  com.api.logging.LogFactory - SUCCESS :: API request completed with the expected status
+13:16:28.991 [main] INFO  com.api.logging.LogFactory - Overall Status: PASSED
+13:16:28.991 [main] INFO  com.api.logging.LogFactory - =========Ending Test==================
+13:16:29.652 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09062022-011624/TestExtent.html
+13:16:29.698 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09062022-011624/BDD_Reports
+13:16:33.343 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/bKzWnuUeVK8R
+11:36:16.256 [main] INFO  com.api.logging.LogFactory - =========Starting Test Title of your scenario 1==================
+11:36:16.272 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;font-family:'Source Sans Pro', sans-serif;"><details><summary><b> TEST CASE (<span style="color:#039be5">Click to View</span>)</summary><ol><li><span><b>Given </b> sample step</span></li><li><span><b>When </b> Application calls the "Sample" API</span></li><li><span><b>Then </b> API response status is 200</span></li></ol></details></div>
+11:36:16.290 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 1: Given sample step</b></p></div>
+11:36:16.306 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 2: When Application calls the "Sample" API</b></p></div>
+11:36:18.422 [main] INFO  com.api.logging.LogFactory - <a><details><summary>REQUEST URL(click to view)</summary><font color=black>https://reqres.in/api/users/2</font></details></a>
+11:36:18.422 [main] INFO  com.api.logging.LogFactory - <a><details><summary>RESPONSE STATUS(click to view)</summary><font color=black>HTTP/1.1 200 OK</font></details></a>
+11:36:18.422 [main] INFO  com.api.logging.LogFactory - <a><details><summary>RESPONSE BODY(click to view)</summary><font color=black>{"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}</font></details></a>
+11:36:18.422 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 3: Then API response status is 200</b></p></div>
+11:36:18.422 [main] INFO  com.api.logging.LogFactory - SUCCESS :: API request completed with the expected status
+11:36:18.422 [main] INFO  com.api.logging.LogFactory - Overall Status: PASSED
+11:36:18.422 [main] INFO  com.api.logging.LogFactory - =========Ending Test==================
+11:36:18.963 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09092022-113614/TestExtent.html
+11:36:19.057 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09092022-113614/BDD_Reports
+11:36:21.321 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/X5yC4c4HfF1V
+14:11:15.926 [main] INFO  com.api.logging.LogFactory - =========Starting Test Title of your scenario 1==================
+14:11:15.942 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;font-family:'Source Sans Pro', sans-serif;"><details><summary><b> TEST CASE (<span style="color:#039be5">Click to View</span>)</summary><ol><li><span><b>Given </b> sample step</span></li><li><span><b>When </b> Application calls the "Sample" API</span></li><li><span><b>Then </b> API response status is 200</span></li></ol></details></div>
+14:11:15.957 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 1: Given sample step</b></p></div>
+14:11:15.957 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 2: When Application calls the "Sample" API</b></p></div>
+14:11:17.434 [main] WARN  com.api.logging.LogFactory - FAILURE :: API Request was unsuccessful
+14:11:17.434 [main] INFO  com.api.logging.LogFactory - <a><details><summary>Error Details(click to view)</summary><font color=black>Target host is null</font></details></a>
+14:11:17.434 [main] INFO  com.api.logging.LogFactory - <a><details><summary>REQUEST URL(click to view)</summary><font color=black>default-app-base-url/api/users/2</font></details></a>
+14:11:17.449 [main] INFO  com.api.logging.LogFactory - =========Ending Test==================
+14:11:18.094 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09092022-021114/TestExtent.html
+14:11:18.125 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09092022-021114/BDD_Reports
+14:11:22.827 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/Se0aTzDP7fb9
+14:16:20.164 [main] INFO  com.api.logging.LogFactory - =========Starting Test Title of your scenario 1==================
+14:16:20.180 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;font-family:'Source Sans Pro', sans-serif;"><details><summary><b> TEST CASE (<span style="color:#039be5">Click to View</span>)</summary><ol><li><span><b>Given </b> sample step</span></li><li><span><b>When </b> Application calls the "Sample" API</span></li><li><span><b>Then </b> API response status is 200</span></li></ol></details></div>
+14:16:20.180 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 1: Given sample step</b></p></div>
+14:16:20.196 [main] INFO  com.api.logging.LogFactory - <div style="background-color:#E7E9EB;"><p style="font-size:15px"><b>STEP 2: When Application calls the "Sample" API</b></p></div>
+14:16:22.278 [main] WARN  com.api.logging.LogFactory - FAILURE :: API Request was unsuccessful
+14:16:22.278 [main] INFO  com.api.logging.LogFactory - <a><details><summary>Error Details(click to view)</summary><font color=black>Target host is null</font></details></a>
+14:16:22.278 [main] INFO  com.api.logging.LogFactory - <a><details><summary>REQUEST URL(click to view)</summary><font color=black>default-app-base-url/api/users/2</font></details></a>
+14:16:22.294 [main] INFO  com.api.logging.LogFactory - =========Ending Test==================
+14:16:23.081 [main] INFO  com.api.logging.LogFactory - Test Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09092022-021619/TestExtent.html
+14:16:23.255 [main] INFO  com.api.logging.LogFactory - BDD Report Path:- C:\Users\Chandrakant.Shetty\eclipse-workspace\API_Testing_Framework/Reports/09092022-021619/BDD_Reports
+14:16:28.561 [main] INFO  com.api.logging.LogFactory - File.io Report Link: https://file.io/9eH308yH2i7Q

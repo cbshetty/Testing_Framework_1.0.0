@@ -1,0 +1,171 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-09-09T08:41:15.254Z",
+        "before": [
+          {
+            "result": {
+              "duration": 625000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.bdd.base.API_StepDefs.before(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Title of your scenario 1",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario-1",
+        "after": [
+          {
+            "result": {
+              "error_message": "java.lang.RuntimeException\r\n\tat com.api.reporting.ReportFactory.endTest(ReportFactory.java:213)\r\n\tat com.bdd.base.API_StepDefs.after(API_StepDefs.java:339)\r\n",
+              "status": "failed"
+            },
+            "match": {
+              "location": "com.bdd.base.API_StepDefs.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 15000000,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.bdd.base.API_StepDefs.beforeStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 7,
+            "name": "sample step",
+            "match": {
+              "location": "com.bdd.base.Sample_StepDef.sample_step()"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.bdd.base.API_StepDefs.afterStep()"
+                }
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "error_message": "java.lang.RuntimeException\r\n\tat com.api.base.API_BaseClass.Send_API_Request(API_BaseClass.java:645)\r\n\tat com.api.base.API_BaseClass.Send_API_GET_Request(API_BaseClass.java:839)\r\n\tat com.api.base.API_BaseClass.Send_API_Request(API_BaseClass.java:1673)\r\n\tat com.bdd.base.API_StepDefs.application_calls_the_get_ipo_master_api(API_StepDefs.java:90)\r\n\tat ✽.Application calls the \"Sample\" API(file:///C:/Users/Chandrakant.Shetty/eclipse-workspace/API_Testing_Framework/src/test/resources/features/Sample.feature:8)\r\n",
+              "duration": 1492000000,
+              "status": "failed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.bdd.base.API_StepDefs.beforeStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 8,
+            "name": "Application calls the \"Sample\" API",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Sample\"",
+                  "offset": 22
+                }
+              ],
+              "location": "com.bdd.base.API_StepDefs.application_calls_the_get_ipo_master_api(java.lang.String)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "com.bdd.base.API_StepDefs.afterStep()"
+                }
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "skipped"
+                },
+                "match": {
+                  "location": "com.bdd.base.API_StepDefs.beforeStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 9,
+            "name": "API response status is 200",
+            "match": {
+              "arguments": [
+                {
+                  "val": "200",
+                  "offset": 23
+                }
+              ],
+              "location": "com.bdd.base.API_StepDefs.api_response_status_is(java.lang.Integer)"
+            },
+            "after": [
+              {
+                "result": {
+                  "status": "skipped"
+                },
+                "match": {
+                  "location": "com.bdd.base.API_StepDefs.afterStep()"
+                }
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "  I want to use this template for my feature file",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Sample.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

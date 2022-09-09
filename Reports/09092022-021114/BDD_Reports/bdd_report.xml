@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="2.532">
+<testcase classname="Title of your feature" name="Title of your scenario 1" time="2.195">
+<failure message="" type="java.lang.RuntimeException"><![CDATA[Given sample step...........................................................passed
+When Application calls the "Sample" API.....................................failed
+Then API response status is 200.............................................skipped
+
+StackTrace:
+java.lang.RuntimeException
+	at com.api.base.API_BaseClass.Send_API_Request(API_BaseClass.java:645)
+	at com.api.base.API_BaseClass.Send_API_GET_Request(API_BaseClass.java:839)
+	at com.api.base.API_BaseClass.Send_API_Request(API_BaseClass.java:1673)
+	at com.bdd.base.API_StepDefs.application_calls_the_get_ipo_master_api(API_StepDefs.java:90)
+	at ✽.Application calls the "Sample" API(file:///C:/Users/Chandrakant.Shetty/eclipse-workspace/API_Testing_Framework/src/test/resources/features/Sample.feature:8)
+]]></failure>
+</testcase>
+</testsuite>
